@@ -251,6 +251,7 @@ font-weight: bold;
 padding: 15px 20px;
 margin: 0;
 }
+
 .flame26 {
 position: relative;
 margin: 2em auto;
@@ -275,7 +276,9 @@ font-weight: bold;
 padding: 15px 20px;
 margin: 0;
 }
+
 .flame27 {
+font-style: MSゴシック;  
 position: relative;
 margin: 2em auto;
 width: 100%;
